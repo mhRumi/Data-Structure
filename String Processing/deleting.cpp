@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-string del(string *text,int pos,int length)
+void del(string *text,int pos,int length)
 {
     string first_part,second_part;
     int x;
