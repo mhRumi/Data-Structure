@@ -21,8 +21,6 @@ void replace_(string *text,string *pat1,string *pat2)
            temp = temp + (*pat2);
            i+=n;
        }
-           //(*text) = temp + (* pat2);
-
 
            temp = temp + (*text)[i];
 
