@@ -1,0 +1,8 @@
+Trie
+Bit
+Segment Tree(lazy prop)
+Euclid
+Extended Euclid
+Modular Multiplicatice Inverse
+Chinese Remainder Theorem
+Suffix Array
